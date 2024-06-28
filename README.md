@@ -20,7 +20,9 @@ Before starting the game, the instructions will be displayed. Please make sure t
 - **C key**: To open a door
 
 ### Screenshots
-![game-img-1.png](..%2F..%2FDownloads%2Fgame-img-1.png)
+![game-img-1](https://github.com/eford19/spikeworld_game/assets/131677266/03f3d935-d93c-4c5c-a8e3-3a0569270fa2)
 
-![game-img-2.png](..%2F..%2FDownloads%2Fgame-img-2.png)
+![game-img-2](https://github.com/eford19/spikeworld_game/assets/131677266/fbdb65fd-5347-48b4-ac22-a7d1a2a7817e)
+
+
 
